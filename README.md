@@ -1,4 +1,4 @@
-#Fruit Classification using Convolutional Neural Networks in Python
+# Fruit Classification using Convolutional Neural Networks in Python
 
 ---
 Autores: David Cardona Duque
